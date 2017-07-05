@@ -4,8 +4,10 @@
     <title>Login Dimao</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="{{asset('css/login.css')}}" />
+    <link rel="stylesheet" href="{{asset('css/Estilo.css')}}" />
     <link rel="stylesheet" href="{{asset('css/bootstrap.min.css')}}" />
+    <link rel="shortcut icon" href="{{asset('img/fav.ico')}}" type="image/x-icon">
+    <link rel="icon" href="{{asset('img/fav.ico')}}" type="image/x-icon">
 </head>
 <body>
     <div class="container">
